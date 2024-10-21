@@ -71,7 +71,6 @@ img:hover {
 }
 
 #texto {
-         #texto {
     position: fixed; 
     left: 0; 
     top: 50%; 
@@ -81,7 +80,6 @@ img:hover {
     border: 1px solid #000; 
     max-width: 300px; 
     line-height: 1.5; 
-}
 
 }
 
