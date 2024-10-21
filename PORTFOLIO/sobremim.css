@@ -71,15 +71,13 @@ img:hover {
 }
 
 #texto { 
-    left: 0; 
-    top: 50%; 
-    transform: translateY(-50%); 
+    left: 0;  
     padding: 20px; 
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid #000; 
     max-width: 300px; 
     line-height: 1.5; 
-
+margin-right: 1150px;
 }
 
 footer {
